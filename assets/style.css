@@ -1,0 +1,25 @@
+body{
+    background: palegreen;
+    color: #333;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+h1{
+    font-size: 48px;
+    text-transform: uppercase;
+    letter-spacing: 2px
+}
+p{
+    font-size: 16px;
+}
+p.small{
+    font-size: 12px;
+}
+ul {
+    padding: 0;
+}
+ul > li {
+    text-align: center;
+    list-style: none;
+}
